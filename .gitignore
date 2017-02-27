@@ -58,3 +58,10 @@ fastlane/screenshots
 # https://github.com/johnno1962/injectionforxcode
 
 iOSInjectionProject/
+.idea/workspace.xml
+.idea/vcs.xml
+.idea/modules.xml
+.idea/misc.xml
+.idea/copyright/profiles_settings.xml
+.idea/compiler.xml
+.idea/NBCGdLocationgManager.iml
